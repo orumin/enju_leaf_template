@@ -1,12 +1,13 @@
 # application template for enju_leaf
 # https://github.com/next-l/enju_leaf
 
-gem 'enju_leaf', '~> 1.3.0.beta.2', github: 'next-l/enju_leaf', branch: '1.3'
+gem 'enju_leaf', '~> 1.3.0.beta.2'
 gem 'enju_manifestation_viewer', '~> 0.3.0.beta.2'
 gem 'enju_circulation', '~> 0.3.0.beta.1'
 gem 'enju_subject', '~> 0.3.0.beta.1'
 gem 'enju_ndl', '~> 0.3.0.beta.1'
 
+gem 'jquery-rails'
 gem 'charlock_holmes', platforms: :mri
 
 gem 'redis-rails'
