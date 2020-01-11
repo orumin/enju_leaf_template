@@ -6,7 +6,7 @@ gem 'enju_manifestation_viewer', '~> 0.3.3'
 gem 'enju_circulation', '~> 0.3.2'
 gem 'enju_subject', '~> 0.3.1'
 gem 'enju_ndl', '~> 0.3.1'
-# gem 'enju_inventory', '~> 0.3.0'
+gem 'enju_inventory', '~> 0.3.1'
 
 gem 'jquery-rails'
 gem 'charlock_holmes', platforms: :mri
